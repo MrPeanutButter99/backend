@@ -1,0 +1,14 @@
+[
+  {
+    "title": "OnePlus 9 Pro",
+    "price": "270.000",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_754236-MLA48389889068_112021-O.webp",
+    "id": 1234123
+  },
+  {
+    "title": "OnePlus 9 Pro",
+    "price": "270.000",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_754236-MLA48389889068_112021-O.webp",
+    "id": 213123
+  }
+]
